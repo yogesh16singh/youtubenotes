@@ -36,7 +36,7 @@ Make sure you have the following installed:
    npm start
 
 4. **Open the Browser:**
-   Open http://localhost:3000 to view the application.
+   Open http://localhost:5173 to view the application.
 
 ## Usage
 
